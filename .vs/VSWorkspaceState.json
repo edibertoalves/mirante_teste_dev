@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Questao5",
+    "\\Questao5\\Infrastructure",
+    "\\Questao5\\Infrastructure\\Database",
+    "\\Questao5\\Infrastructure\\Database\\CommandStore",
+    "\\Questao5\\Infrastructure\\Database\\QueryStore",
+    "\\Questao5\\Infrastructure\\Sqlite"
+  ],
+  "SelectedNode": "\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+  "PreviewInSolutionExplorer": false
+}
